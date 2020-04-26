@@ -1,6 +1,6 @@
 # Stegosaurus Challenge
 
-Welcome to the Stegosarus challenge. We've been left two clues and need your help.
+Welcome to the Stegosaurus challenge. We've been left two clues and need your help.
 
 ## Phase 1
 
