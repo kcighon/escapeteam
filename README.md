@@ -5,7 +5,7 @@ We recommend you [download](https://github.com/kcighon/escapeteam_stegosaurus/ar
 
 ## Notes
 ### Phase 1 - Flower
-
+![picture](Phase1/flower.jpg)
 * There's something not quite right with this [picture](Phase1/flower.jpg). I just can't see it though... 
 * We've analysed the photo thoroughly and cannot find anything out of the ordinary...
 * We so hoped we would find a `CODE`
@@ -19,5 +19,7 @@ Apparently he was heard singing the chorus from the current most listened to Gor
 
 
 ### Phase 3 - Photo
-
-The following [photo](Phase3/original.jpg) is a well know piece by a famous photographer. We've been left a [modified copy](Phase3/modified.jpg). But I cannot understand what the differences are. Can you?
+![photo](Phase3/original.jpg)  ![modified copy](Phase3/modified.jpg)
+* The following [photo](Phase3/original.jpg) is a well know piece by a famous photographer. 
+* We've been left a [modified copy](Phase3/modified.jpg). 
+* But I cannot understand what the differences are. Can you?
