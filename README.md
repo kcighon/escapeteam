@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Stegosaurus Challenge
 
-You can use the [editor on GitHub](https://github.com/kcighon/escapeteam/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+EscapeTeam, welcome to the Stegosaurus challenge. An international thief known as Stegosaurus has left three clues to his next crime and we need your help. Instructions do not need to be printed. 
+We recommend you [download](https://github.com/kcighon/escapeteam_stegosaurus/archive/master.zip) (or clone) this repository in order to view and work with the files on your local machine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Notes
+### Phase 1 - Flower
 
-### Markdown
+* There's something not quite right with this [picture](Phase1/flower.jpg). I just can't see it though... 
+* We've analysed the photo thoroughly and cannot find anything out of the ordinary...
+* We so hoped we would find a `CODE`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Phase 2 - Gorillaz
+Apparently he was heard singing the chorus from the current most listened to Gorillaz song. 
+* Where can we `spot` the most listened to song by a group? 
+* We can only think there must be some kind of code, like a a repeating pattern...
+* Apparently he dropped a scrunched up [serviette](Phase2/paper.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Phase 3 - Photo
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kcighon/escapeteam/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The following [photo](Phase3/original.jpg) is a well know piece by a famous photographer. We've been left a [modified copy](Phase3/modified.jpg). But I cannot understand what the differences are. Can you?
