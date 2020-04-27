@@ -26,7 +26,7 @@ Apparently he was heard singing the chorus from the current most listened to Gor
 
 | Original                      |                              Modified |
 | ----------------------------- | ------------------------------------- |
-| ![photo](Phase3/original.jpg) | ![modified copy](Phase3/modified.jpg) |
+| ![photo](Phase3/original.jpg){:height="50%" width="50%"} | ![modified copy](Phase3/modified.jpg){:height="50%" width="50%"} |
 
 
 * The first [photo](Phase3/original.jpg) is a well know piece by a famous photographer. 
