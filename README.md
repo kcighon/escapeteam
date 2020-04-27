@@ -7,7 +7,9 @@ We recommend you download images (click the link below each image) for Phase 1 a
 ## Notes
 ---
 ### Phase 1 - Flower
-![picture](Phase1/flower.jpg)
+
+[![picture](Phase1/flower.jpg)](Phase1/flower.jpg)
+
 * There's something not quite right with this [picture](Phase1/flower.jpg). I just can't see it though... 
 * We've analysed the photo thoroughly and cannot find anything out of the ordinary...
 * We so hoped we would find a `CODE`
@@ -19,7 +21,7 @@ Apparently he was heard singing the chorus from the current most listened to Gor
 * We can only think there must be some kind of code, like a a repeating pattern...
 * Apparently he dropped a scrunched up [serviette](Phase2/paper.jpg)
 
-![serviette](Phase2/paper.jpg){:height="50%" width="50%"}
+[![serviette](Phase2/paper.jpg){:height="50%" width="50%"}](Phase2/paper.jpg)
 
 ---
 ### Phase 3 - Photo
