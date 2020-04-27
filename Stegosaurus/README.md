@@ -14,7 +14,7 @@ We recommend you [download](../../../archive/master.zip) (or clone) this reposit
 ### Phase 2 - Gorillaz
 Apparently he was heard singing the chorus from the current most listened to Gorillaz song. 
 * Where can we `spot` the most listened to song by a group? 
-* We can only think it must be some kind of code, like a a repeating pattern...
+* We can only think there must be some kind of code, like a a repeating pattern...
 * Apparently he dropped a scrunched up [serviette](Phase2/paper.jpg)
 
 
