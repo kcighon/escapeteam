@@ -19,9 +19,7 @@ Apparently he was heard singing the chorus from the current most listened to Gor
 
 
 ### Phase 3 - Photo
-Original | Modified
------------- | -------------
-![photo](Phase3/original.jpg) | ![modified copy](Phase3/modified.jpg)
+![photo](Phase3/original.jpg) ![modified copy](Phase3/modified.jpg)
 * The following [photo](Phase3/original.jpg) is a well know piece by a famous photographer. 
 * We've been left a [modified copy](Phase3/modified.jpg). 
 * But I cannot understand what the differences are. Can you?
