@@ -1,7 +1,8 @@
 # Stegosaurus Challenge
 
 EscapeTeam, welcome to the Stegosaurus challenge. An international thief known as Stegosaurus has left three clues to his next crime and we need your help. Instructions do not need to be printed. 
-We recommend you download images (click the image or the linkin the notes below each image) for Phase 1 and 3 challenges in order to view and work with the files on your local machine.
+
+For Phase 1 and 3 challenges, we recommend you download images (click the image or the link in the notes below each image) in order to view and work with the files on your local machine.
 
 
 ## Notes
