@@ -19,7 +19,7 @@ Apparently he was heard singing the chorus from the current most listened to Gor
 * We can only think there must be some kind of code, like a a repeating pattern...
 * Apparently he dropped a scrunched up [serviette](Phase2/paper.jpg)
 
-![serviette](Phase2/paper.jpg) <!-- .element height="50%" width="50%" -->
+![serviette](Phase2/paper.jpg){:height="50%" width="50%"}
 
 ---
 ### Phase 3 - Photo
