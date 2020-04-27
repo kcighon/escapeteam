@@ -23,8 +23,8 @@ Apparently he was heard singing the chorus from the current most listened to Gor
 ---
 ### Phase 3 - Photo
 
-| Original        | Modified           |
-|:-------------:|:-------------:|
+| Original                      |                              Modified |
+|:-----------------------------:|:-------------------------------------:|
 | ![photo](Phase3/original.jpg) | ![modified copy](Phase3/modified.jpg) |
 
 
