@@ -1,7 +1,7 @@
 # Stegosaurus Challenge
 
 EscapeTeam, welcome to the Stegosaurus challenge. An international thief known as Stegosaurus has left three clues to his next crime and we need your help. Instructions do not need to be printed. 
-We recommend you [download](https://github.com/kcighon/escapeteam_stegosaurus/archive/master.zip) (or clone) this repository in order to view and work with the files on your local machine.
+We recommend you download images (click the link below each image) for Phase 1 and 3 challenges in order to view and work with the files on your local machine.
 
 ## Notes
 ### Phase 1 - Flower
@@ -16,6 +16,7 @@ Apparently he was heard singing the chorus from the current most listened to Gor
 * Where can we `spot` the most listened to song by a group? 
 * We can only think there must be some kind of code, like a a repeating pattern...
 * Apparently he dropped a scrunched up [serviette](Phase2/paper.jpg)
+![serviette](Phase2/paper.jpg)
 
 
 ### Phase 3 - Photo
